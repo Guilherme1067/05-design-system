@@ -1,9 +1,10 @@
+Components
 - [ ] Text
-- [] Heading
-- [] Box
-- [] Button
-- [] TextInput
-- [] TextArea
-- [] Checkbox
-- [] Avatar
-- [] MultiStep
+- [ ] Heading
+- [ ] Box
+- [ ] Button
+- [ ] TextInput
+- [ ] TextArea
+- [ ] Checkbox
+- [ ] Avatar
+- [ ] MultiStep
