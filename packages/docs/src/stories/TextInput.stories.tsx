@@ -1,4 +1,4 @@
-import { Box, Text, TextInput, TextInputProps } from '@ignite-ui/react'
+import { Box, Text, TextInput, TextInputProps } from '@reis-ignite-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 export default {
   title: 'Form/TextInput',
