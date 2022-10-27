@@ -20,7 +20,7 @@ jobs:
     - run: npm ci
 
     - run: npm run build
-      env: :
+      env:
         TURBO_TOKEN: 7WH85QQWPMgdxU6W6AyLdibY
         TURBO_TEAM: guilherme1067
 
