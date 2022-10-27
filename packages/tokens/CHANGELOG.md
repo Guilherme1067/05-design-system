@@ -1,5 +1,11 @@
 # @reis-ignite-ui/tokens
 
+## 2.0.0
+
+### Major Changes
+
+- changed color again
+
 ## 1.3.0
 
 ### Minor Changes
