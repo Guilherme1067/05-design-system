@@ -1,4 +1,4 @@
-# @reis-ignite-ui/tokens
+# @guireis-ignite-ui/tokens
 
 ## 2.1.0
 

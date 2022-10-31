@@ -1,4 +1,4 @@
-# @reis-ignite-ui/react
+# @guireis-ignite-ui/react
 
 ## 2.0.0
 

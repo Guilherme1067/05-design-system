@@ -1,4 +1,4 @@
-import { Box, Text, Checkbox, CheckboxProps } from '@reis-ignite-ui/react'
+import { Box, Text, Checkbox, CheckboxProps } from '@guireis-ignite-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 export default {
   title: 'Form/Checkbox',
