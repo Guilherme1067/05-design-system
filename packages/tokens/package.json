@@ -1,6 +1,6 @@
 {
-  "name": "@guireis-ignite-ui/tokens",
-  "version": "4.0.0",
+  "name": "@reis-ignite-ui/tokens",
+  "version": "5.0.0",
   "description": "",
   "main": "./dist/index.js",
   "module": "./dist/index.mjs",
@@ -14,8 +14,8 @@
   "author": "",
   "license": "MIT",
   "devDependencies": {
-    "@guireis-ignite-ui/ts-config": "*",
-    "@guireis-ignite-ui/eslint-config": "*",
+    "@reis-ignite-ui/ts-config": "*",
+    "@reis-ignite-ui/eslint-config": "*",
     "tsup": "^6.3.0",
     "typescript": "^4.8.4"
   }

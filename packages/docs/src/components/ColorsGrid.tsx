@@ -1,4 +1,4 @@
-import { colors } from '@guireis-ignite-ui/tokens'
+import { colors } from '@reis-ignite-ui/tokens'
 import { getContrast } from 'polished'
 
 export function ColorsGrid() {

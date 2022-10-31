@@ -1,5 +1,5 @@
 import type { Meta, StoryObj } from '@storybook/react'
-import { Button, ButtonProps } from '@guireis-ignite-ui/react'
+import { Button, ButtonProps } from '@reis-ignite-ui/react'
 import { ArrowRight } from 'phosphor-react'
 
 export default {

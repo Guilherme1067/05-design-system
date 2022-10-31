@@ -1,4 +1,4 @@
-import { Text, TextProps } from '@guireis-ignite-ui/react'
+import { Text, TextProps } from '@reis-ignite-ui/react'
 import { Meta, StoryObj } from '@storybook/react'
 export default {
   title: 'Typography/Text',

@@ -1,4 +1,10 @@
-# @guireis-ignite-ui/react
+# @reis-ignite-ui/react
+
+## 4.0.0
+
+### Major Changes
+
+- whatever
 
 ## 3.0.0
 
