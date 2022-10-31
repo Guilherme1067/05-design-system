@@ -1,5 +1,11 @@
 # @reis-ignite-ui/ts-config
 
+## 4.0.0
+
+### Major Changes
+
+- Final
+
 ## 3.0.0
 
 ### Major Changes

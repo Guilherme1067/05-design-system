@@ -1,5 +1,11 @@
 # @reis-ignite-ui/tokens
 
+## 6.0.0
+
+### Major Changes
+
+- Final
+
 ## 5.0.0
 
 ### Major Changes
